@@ -1,0 +1,24 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnewberry/Liri-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnewberry/Liri-Bot/issues"
+  },
+  "homepage": "https://github.com/vnewberry/Liri-Bot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
