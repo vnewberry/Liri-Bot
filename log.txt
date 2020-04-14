@@ -1542,3 +1542,399 @@ IMDB Rating: 8.0
 
 Plot: Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.
 Cast: Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey
+Venue: Streaming LIVE
+Location: ,
+Venue: Gärdet
+
+---------------------------------------------------
+
+Date: 04/18/2020
+Venue: Royal Arena
+Location: Copenhagen,Denmark
+Date: 06/29/2020
+
+---------------------------------------------------
+
+Location: Stockholm,Sweden
+Venue: Festivalpark Werchter
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/27/2020
+Location: Werchter,Belgium
+Location: Imola,Italy
+Date: 07/05/2020
+
+---------------------------------------------------
+
+Venue: Wiener Stadthalle Halle D
+Location: Vienna,Austria
+Date: 07/07/2020
+
+---------------------------------------------------
+
+Venue: Hyde Park
+Location: London,United Kingdom
+Date: 07/10/2020
+
+---------------------------------------------------
+
+Venue: Tauron Arena Krakow
+Date: 07/13/2020
+
+---------------------------------------------------
+
+Venue: Autodromo Enzo e Dino Ferrari - Imola
+Venue: Papp Laszlo Arena
+Date: 07/02/2020
+Location: Budapest,Hungary
+
+---------------------------------------------------
+
+Date: 07/15/2020
+Location: Kraków,Poland
+Location: Paris 16 Passy,France
+
+---------------------------------------------------
+
+Date: 07/19/2020
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost,Netherlands
+Date: 07/22/2020
+
+---------------------------------------------------
+
+Location: Amsterdam Zuidoost,Netherlands
+Venue: HIPPODROME DE LONGCHAMP
+Date: 07/23/2020
+
+---------------------------------------------------
+
+Venue: Ziggo Dome
+Venue: Werchter Boutique
+Location: Rotselaar,Belgium
+
+---------------------------------------------------
+
+Date: 06/20/2020
+Location: Berlin,Germany
+Date: 06/24/2020
+Venue: Waldbühne Berlin
+
+---------------------------------------------------
+
+Venue: Oslo Sommertid
+
+---------------------------------------------------
+
+Date: 06/26/2020
+Venue: Roskilde Festival
+Date: 07/01/2020
+Location: Roskilde,Denmark
+
+---------------------------------------------------
+
+Location: Oslo,Norway
+Venue: Open’er Festival
+Location: Powiat Pucki,Poland
+
+---------------------------------------------------
+
+Venue: Festival de Nîmes
+Location: Nîmes,France
+Date: 07/05/2020
+Date: 07/03/2020
+
+---------------------------------------------------
+
+Venue: NOS Alive
+Location: Algés,Portugal
+Date: 07/09/2020
+
+---------------------------------------------------
+
+Location: London,United Kingdom
+Date: 07/11/2020
+
+---------------------------------------------------
+
+Location: Sao Paulo,Brazil
+Venue: Allianz Parque
+Date: 07/18/2020
+
+---------------------------------------------------
+
+Venue: Hyde Park
+Venue: Allianz Parque
+Location: Sao Paulo,Brazil
+Date: 07/19/2020
+
+---------------------------------------------------
+
+Location: Los Angeles,United States
+Venue: Lover Fest West
+Date: 07/25/2020
+
+---------------------------------------------------
+
+Venue: Lover Fest West
+Location: Los Angeles,United States
+Date: 07/26/2020
+
+---------------------------------------------------
+
+Venue: Lover Fest East
+Location: Foxborough,United States
+Date: 07/31/2020
+
+---------------------------------------------------
+
+Venue: Lover Fest East
+Location: Foxborough,United States
+Date: 08/01/2020
+
+---------------------------------------------------
+
+Venue: Werchter Boutique
+Location: Rotselaar,Belgium
+
+---------------------------------------------------
+
+Date: 06/20/2020
+Location: Berlin,Germany
+
+---------------------------------------------------
+
+Venue: Oslo Sommertid
+Location: Oslo,Norway
+Venue: Waldbühne Berlin
+Date: 06/24/2020
+
+---------------------------------------------------
+
+Venue: Roskilde Festival
+Date: 06/26/2020
+Location: Roskilde,Denmark
+
+---------------------------------------------------
+
+Venue: Open’er Festival
+Date: 07/01/2020
+Location: Powiat Pucki,Poland
+
+---------------------------------------------------
+
+Venue: Festival de Nîmes
+Date: 07/03/2020
+Location: Nîmes,France
+
+---------------------------------------------------
+
+Date: 07/05/2020
+Location: Algés,Portugal
+Venue: NOS Alive
+
+---------------------------------------------------
+
+Venue: Hyde Park
+Location: London,United Kingdom
+Date: 07/09/2020
+
+---------------------------------------------------
+
+Location: Sao Paulo,Brazil
+Venue: Allianz Parque
+Date: 07/18/2020
+
+---------------------------------------------------
+
+Date: 07/11/2020
+Venue: Allianz Parque
+Location: Sao Paulo,Brazil
+
+---------------------------------------------------
+
+Venue: Lover Fest West
+Location: Los Angeles,United States
+Date: 07/25/2020
+
+---------------------------------------------------
+
+Venue: Lover Fest West
+Location: Los Angeles,United States
+Date: 07/26/2020
+
+---------------------------------------------------
+
+Venue: Lover Fest East
+Date: 07/19/2020
+Location: Foxborough,United States
+
+---------------------------------------------------
+
+Venue: Lover Fest East
+Location: Foxborough,United States
+Date: 07/31/2020
+
+---------------------------------------------------
+
+Date: 08/01/2020
+Venue: Werchter Boutique
+Location: Rotselaar,Belgium
+Date: 06/20/2020
+
+---------------------------------------------------
+
+Venue: Waldbühne Berlin
+Location: Berlin,Germany
+Date: 06/24/2020
+
+---------------------------------------------------
+
+Venue: Oslo Sommertid
+Location: Oslo,Norway
+Date: 06/26/2020
+
+---------------------------------------------------
+
+Venue: Roskilde Festival
+Location: Roskilde,Denmark
+Date: 07/01/2020
+
+---------------------------------------------------
+
+Venue: Open’er Festival
+Location: Powiat Pucki,Poland
+Date: 07/03/2020
+
+---------------------------------------------------
+
+Venue: Festival de Nîmes
+Location: Nîmes,France
+Date: 07/05/2020
+
+---------------------------------------------------
+
+Venue: NOS Alive
+Location: Algés,Portugal
+Date: 07/09/2020
+
+---------------------------------------------------
+
+Venue: Hyde Park
+Location: London,United Kingdom
+Date: 07/11/2020
+
+---------------------------------------------------
+
+Venue: Allianz Parque
+Location: Sao Paulo,Brazil
+Date: 07/18/2020
+
+---------------------------------------------------
+
+Venue: Allianz Parque
+Location: Sao Paulo,Brazil
+Date: 07/19/2020
+
+---------------------------------------------------
+
+Venue: Lover Fest West
+Date: 07/25/2020
+Location: Los Angeles,United States
+
+---------------------------------------------------
+
+Location: Los Angeles,United States
+Date: 07/26/2020
+Venue: Lover Fest West
+
+---------------------------------------------------
+
+Venue: Lover Fest East
+Location: Foxborough,United States
+Date: 07/31/2020
+Venue: Lover Fest East
+Location: Foxborough,United States
+Date: 08/01/2020
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Venue: Streaming LIVE
+Location: ,
+Date: 04/18/2020
+
+---------------------------------------------------
+
+Venue: Gärdet
+Location: Stockholm,Sweden
+Date: 06/27/2020
+
+---------------------------------------------------
+
+Venue: Royal Arena
+Location: Copenhagen,Denmark
+Date: 06/29/2020
+
+---------------------------------------------------
+
+Venue: Festivalpark Werchter
+Location: Werchter,Belgium
+Date: 07/02/2020
+
+---------------------------------------------------
+
+Venue: Autodromo Enzo e Dino Ferrari - Imola
+Location: Imola,Italy
+Date: 07/05/2020
+
+---------------------------------------------------
+
+Venue: Wiener Stadthalle Halle D
+Location: Vienna,Austria
+
+---------------------------------------------------
+
+Date: 07/07/2020
+Venue: Hyde Park
+Location: London,United Kingdom
+Date: 07/10/2020
+
+---------------------------------------------------
+
+Venue: Tauron Arena Krakow
+Location: Kraków,Poland
+Date: 07/13/2020
+
+---------------------------------------------------
+
+Venue: Papp Laszlo Arena
+Location: Budapest,Hungary
+Date: 07/15/2020
+
+---------------------------------------------------
+
+Venue: HIPPODROME DE LONGCHAMP
+Location: Paris 16 Passy,France
+Date: 07/19/2020
+
+---------------------------------------------------
+
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost,Netherlands
+Date: 07/22/2020
+Venue: Ziggo Dome
+
+---------------------------------------------------
+
+Location: Amsterdam Zuidoost,Netherlands
+Date: 07/23/2020
+
+---------------------------------------------------
+
