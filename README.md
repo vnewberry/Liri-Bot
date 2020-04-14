@@ -64,7 +64,7 @@ In the terminal
 -  liri.js 
 
 
-
+<h6>steps</h6>
 - gather command line arguments
 
 - switchCase(); switch statement holding:
@@ -74,7 +74,7 @@ In the terminal
   - movie-this
   - do-what-it-says
   
-
+<h6>functions</h6>
 - bandsInTown();
   - declare artist variable as parameter
   - request url with axios
