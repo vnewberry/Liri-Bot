@@ -21,7 +21,7 @@ LIRI is a CLI(command line interface) app that takes in search values and return
 In the terminal 
 
 - ```node liri.js concert-this "artist/band name here"``` returns info gathered from bandsintown on a specific artist/band. 
-![alt text]("Liri-Bot\gifs\concert-this.gif" "Liri-Bot")
+![alt text](".\gifs\concert-this.gif" "Liri-Bot")
 - ```node liri.js spotify-this-song "song name here"``` to return song info from Spotify.
   
 - ```node liri.js movie-this "movie name here"``` to return movie info from OMDb. 
