@@ -4,6 +4,8 @@ var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
 var axios = require("axios");
 var fs = require('fs');
+var moment = require('moment'); 
+moment().format();
 // add a switch statement to grab which command is used
 var command = process.argv[2];
 
@@ -53,17 +55,20 @@ function bandsInTown(artist) {
       display("No Concerts Found");
     } else {
       for (i = 0; i < response.data.length; i++) {
-        var dateTime = response.data[i].datetime;
-        var month = dateTime.substring(5, 7);
-        var year = dateTime.substring(0, 4);
-        var day = dateTime.substring(8, 10);
-        var date = month + "/" + day + "/" + year;
+        // var dateTime = response.data[i].datetime;
+        // var month = dateTime.substring(5, 7);
+        // var year = dateTime.substring(0, 4);
+        // var day = dateTime.substring(8, 10);
+        // var date = month + "/" + day + "/" + year;
 
+        var datetime = response.data[i].datetime; //Saves datetime response into a variable
+        var dateArr = datetime.split('T');
         display(`Venue: ${response.data[i].venue.name}`);
         display(
           `Location: ${response.data[i].venue.city},${response.data[i].venue.country}`
         );
-        display(`Date: ${date}`);
+        
+        display(`Date: ${moment(dateArr[0]).format("MM/DD/YYYY")}`);
         display("\n---------------------------------------------------\n");
       }
     }
