@@ -23,10 +23,11 @@ In the terminal
 - ```node liri.js concert-this "artist/band name here"``` returns info gathered from bandsintown on a specific artist/band. 
 ![alt text](gifs/concert-this.gif "Liri-Bot")
 - ```node liri.js spotify-this-song "song name here"``` to return song info from Spotify.
-  
+![alt text](gifs/spotify.gif "Liri-Bot")
 - ```node liri.js movie-this "movie name here"``` to return movie info from OMDb. 
-  
+![alt text](gifs/movie.gif "Liri-Bot")
 - ```node liri.js do-what-it-says``` executes a function set in a local text file.
+![alt text](gifs/dowhatitsays.gif "Liri-Bot")
 
 <hr>
 

@@ -1938,3 +1938,140 @@ Date: 07/23/2020
 
 ---------------------------------------------------
 
+--------------------------------------------------------------------
+Artist(s): Jimi Hendrix
+Song Name: Purple Haze
+Album Name: Are You Experienced
+Preview Link: https://p.scdn.co/mp3-preview/03bc9eb9c20f832c8341a3db4173d7036d93156e?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): ZEKE BEATS
+Song Name: Purple Haze
+Album Name: Purple Haze
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Purple Haze
+Song Name: Flanging (ASOT 959)
+Album Name: ASOT 959 - A State Of Trance Episode 959 (Including A State Of Trance Showcase - Mix 002: Allen Watts)
+Preview Link: https://p.scdn.co/mp3-preview/aa2937a2283e43ec9c2875fde054a1d26b9f21d4?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): The Diplomats
+Song Name: Purple Haze
+Album Name: Cam'Ron Presents The Diplomats - Diplomatic Immunity
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Tommy Emmanuel
+Song Name: Purple Haze
+Album Name: Accomplice One
+Preview Link: https://p.scdn.co/mp3-preview/5adabea674ae28da44feedf1faf322b0bd57a7c0?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): Smash Mouth
+Song Name: All Star
+Album Name: Astro Lounge
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Lil Tecca
+Song Name: All Star (with Lil Tjay)
+Album Name: All Star
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Martin Solveig
+Song Name: All Stars
+Album Name: All Stars
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Smash Mouth
+Song Name: All Star - Breathe Carolina Remix
+Album Name: All Star (Breathe Carolina Remix)
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Mike Perry
+Song Name: All Star
+Album Name: All Star
+Preview Link: https://p.scdn.co/mp3-preview/165c4e66e3be88ebe1e148e3f99cfa2c7023b0c8?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): Ariana Grande
+Song Name: imagine
+Album Name: thank u, next
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): John Lennon
+Song Name: Imagine - 2010 Mix
+Album Name: Imagine
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): gnash
+Song Name: imagine if
+Album Name: we
+Preview Link: https://p.scdn.co/mp3-preview/4af267692f2f48c91c8384b16cd2bf873ee59453?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): Imagine Dragons
+Song Name: Thunder
+Album Name: Evolve
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Imagine Dragons
+Song Name: Believer
+Album Name: Evolve
+Preview Link: null
+------------------------------
+
+Title: The Sandlot
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 61%
+Year: 1993
+Language: English
+Plot: In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.
+Cast: Art LaFleur, Tom Guiry, Mike Vitar, Patrick Renna
+------------------------------
+
+Country: USA
+------------------------------
+
+Title: 300
+Country: USA, Canada, Bulgaria
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Cast: Gerard Butler, Lena Headey, Dominic West, David Wenham
+IMDB Rating: 7.6
+------------------------------
+
+Rotten Tomatoes Rating: 60%
+Year: 2006
+------------------------------
+
+Title: The Great Escape
+Year: 1963
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: 94%
+Country: USA
+Language: English, German, French, Russian, Spanish
+Plot: Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.
+------------------------------
+
+Cast: Steve McQueen, James Garner, Richard Attenborough, James Donald
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): Mick Jensen
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): Anthem Lights
+Song Name: I Want It That Way
+Album Name: Covers Part IV
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): Tyler and Mark
+Song Name: I Want It That Way
+Album Name: Beautiful Dreams
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8e716f12a7904828a6599314adca5821
+--------------------------------------------------------------------
+Artist(s): Anthem Lights
+Song Name: I Want It That Way / Bye Bye Bye
+Album Name: I Want It That Way / Bye Bye Bye
+Preview Link: https://p.scdn.co/mp3-preview/82b2ff786fedce4e1a314d69f15ff5c705049ef5?cid=8e716f12a7904828a6599314adca5821
+TypeError: Cannot read property 'artists' of undefined
